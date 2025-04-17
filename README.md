@@ -1,4 +1,4 @@
-[tenor](https://github.com/user-attachments/assets/46388bf3-ef0f-445c-b750-7e858f641533)
+![tenor](tenor.gif)
 
 <!---![tenor](https://github.com/user-attachments/assets/46388bf3-ef0f-445c-b750-7e858f641533)
 
