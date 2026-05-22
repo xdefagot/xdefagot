@@ -1,4 +1,4 @@
-<h1>Hello! I'm Ximena, a 25-year-old soul full of joy and passion for code. 🧩✨</h1>
+<h1>Hello! I'm Ximena, a 26-year-old soul full of joy and passion for code. 🧩✨</h1>
 <p>💻 A full-stack web and digital apps development student at Instituto Cervantes.📚</p>
 <p>🇦🇷 I'm from Argentina 🌎 and I'm working on turning ideas into digital reality.</p>
 
@@ -7,6 +7,7 @@
 <p>Currently I'm learning:</p>
 
 <li>👩🏽‍💻Python </li>
+<li>👩🏽‍💻Tailwind.css</li>
 <p></p>
 <p>📤 You can find me here: ximedefagot@gmail.com </p>
 
